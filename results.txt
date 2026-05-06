@@ -1,0 +1,23 @@
+=== Power Quality Analysis Report ===
+
+Phase A:
+  RMS Voltage    : 229.81 V
+  Peak-to-Peak   : 650.00 V
+  DC Offset      : -0.0000 V
+  Clipping events: 20
+  Compliant      : YES
+
+Phase B:
+  RMS Voltage    : 229.81 V
+  Peak-to-Peak   : 649.86 V
+  DC Offset      : 0.0000 V
+  Clipping events: 20
+  Compliant      : YES
+
+Phase C:
+  RMS Voltage    : 229.81 V
+  Peak-to-Peak   : 649.86 V
+  DC Offset      : -0.0000 V
+  Clipping events: 20
+  Compliant      : YES
+
