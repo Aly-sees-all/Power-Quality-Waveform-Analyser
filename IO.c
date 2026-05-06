@@ -99,7 +99,7 @@ void write_results_with_samples(PhaseResult results[3], WaveformSample *samples,
             "<title>Power Quality Analysis Report</title>\n"
             "<script src=\"https://cdn.jsdelivr.net/npm/chart.js\"></script>\n"
             "<style>\n"
-            "  body { font-family: Arial, sans-serif; background:#1a1a2e; color:#eee; margin:0; padding:20px; }\n"
+            "  body { font-family: Comic sans MS, Calibri ; background:#1a1a2e; color:#eee; margin:0; padding:20px; }\n"
             "  h1   { text-align:center; color:#00d4ff; margin-bottom:4px; }\n"
             "  p.sub{ text-align:center; color:#888; margin-top:0; margin-bottom:30px; }\n"
             "  .card{ background:#16213e; border-radius:10px; padding:20px; margin-bottom:24px; box-shadow:0 4px 12px rgba(0,0,0,0.4); }\n"
